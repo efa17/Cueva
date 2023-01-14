@@ -9,8 +9,8 @@
 </head>
 <body>
    
-    <h1><i>We are the dreamers.</i></h1>
-    <h1><i>We make it happen.</i></h1>
-    <h1><i>Cause we believe it</i></h1>
+    We are the dreamers.
+   We make it happen.
+  Cause we believe it.
 </body>
 </html>
